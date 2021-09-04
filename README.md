@@ -38,19 +38,19 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'/>
 
-<img width ='26px' align='centre' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'/>
+<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'/>
 
-<img width ='26px' align='centre' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'/>
+<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'/>
 
-<img width ='26px' align='centre' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'/>
+<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'/>
 
-<img width ='26px' align='centre' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'/>
+<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'/>
 
-<img width ='26px' align='centre' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'/>
+<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'/>
 
-<img width ='26px' align='centre' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'/>
+<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'/>
 
-<img align="centre" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
 <newline></newline>
 
@@ -58,7 +58,7 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 <newline></newline>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DhruvPotdar&count_private=true&show_icons=true&theme=dark"/>
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=DhruvPotdar&count_private=true&show_icons=true&theme=dark"/>
 
 ![Metrics](https://metrics.lecoq.io/DhruvPotdar?template=classic&config.timezone=Asia%2FCalcutta)
 
