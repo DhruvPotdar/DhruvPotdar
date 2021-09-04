@@ -54,8 +54,6 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 
 
-\newline
-
 <h3>My GitHub Stats</h3>
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=DhruvPotdar&count_private=true&show_icons=true&theme=dark"/>
