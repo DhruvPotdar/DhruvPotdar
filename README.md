@@ -24,7 +24,7 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 <h3 align='centre'> Connect with Me!! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> </h3>
 <p align = 'left'> 
 <a href = 'https://www.linkedin.com/in/dhruv-potdar-322173204/'> <img width = '26px' align= 'centre' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.instagram.com/dhruvpotdar_/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href = 'https://www.instagram.com/dhruvpotdar_/'> <img width = '26px' align= 'centre' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 </p>
 <br>
 </div>  
