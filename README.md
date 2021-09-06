@@ -47,11 +47,12 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 <img width ='50px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg'/>
 
-<img width ='100px' align='left' src ='http://gazebosim.org/assets/logos/gazebo_horz_neg_small-78655f82d6486fc939ff1da1ba6f48af952fa7194f8c04d459dae5544348e413.png'/>
+<img width ='100px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/1/13/Gazebo_logo.svg'/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>  
   
 <br> 
+
 <h3>My GitHub Stats</h3>  
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=DhruvPotdar&count_private=true&show_icons=true&theme=dark"/>
