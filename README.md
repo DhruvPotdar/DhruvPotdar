@@ -51,7 +51,7 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 <img width ='75px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg'/>
 
-<img width ='50px' align='center' src ='http://gazebosim.org/assets/logos/gazebo_vert_neg-854a9cf8a256558220aab531bd54eb4582837211a73ba0474ce4805c3d0909b4.png'/>
+<img width ='100px' align='center' src ='http://gazebosim.org/assets/logos/gazebo_vert_neg-854a9cf8a256558220aab531bd54eb4582837211a73ba0474ce4805c3d0909b4.png'/>
 
 <br> 
 
