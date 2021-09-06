@@ -37,6 +37,8 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'/>
 
+<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg' />
+
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'/>
 
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'/>
