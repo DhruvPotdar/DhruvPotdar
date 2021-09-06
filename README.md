@@ -49,7 +49,7 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 <img width ='100px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg'/>
 
-<img width ='100px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/1/13/Gazebo_logo.svg'/>
+<img width ='200px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/1/13/Gazebo_logo.svg'/>
 
 
   
