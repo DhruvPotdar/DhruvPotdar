@@ -17,7 +17,7 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 - 🌳 I'm currently exploring **Robotics** and **Game Development**.
 - 👯 I'm looking to collaborate on projects related to **Multiplayer Game Development** and Robotics.
-- 💻 I'm currently working on a project related to Robotic Autonomous Indoor Navigation - **RAIN**, and making a **Multiplayer Tactical FPS** on my own using **Photon Pun**.
+- 💻 I'm currently working on a project related to Robotic Autonomous Indoor Navigation - [**RAIN**](https://github.com/ERC-BPGC/RAIN), and making a **Multiplayer Tactical FPS** on my own using **Photon Pun**.
 - 💬 Talk to me about new developments in **Robotics**, **Electronics** and **Game Development**.  
 
 </p>
