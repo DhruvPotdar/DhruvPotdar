@@ -58,7 +58,3 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 <h3>My GitHub Stats</h3>  
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=DhruvPotdar&count_private=true&show_icons=true&theme=dark"/>
-
-![Metrics](https://metrics.lecoq.io/DhruvPotdar?template=classic&config.timezone=Asia%2FCalcutta)
-
-<!-- <img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" /> -->
