@@ -57,4 +57,4 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 <h3>My GitHub Stats</h3>  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvPotdar1&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvPotdar&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
