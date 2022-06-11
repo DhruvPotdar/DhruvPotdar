@@ -30,8 +30,10 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 
 <br>
 
-<h3 align='left'> Skills and Languages 
-
+<h3 align='left'>
+  Skills and Languages
+</h3>
+  
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' />
 
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'/>
