@@ -18,7 +18,7 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 - 🌳 I'm currently exploring **Robotics** and **Game Development**.
 - 👯 I'm looking to collaborate on projects related **Swarm Robotics** and **Multi-Agent Systems**
 - 💻 I'm currently working on a project on [**Swarm Robotics**](https://github.com/ERC-BPGC/swarm_bots).
-- 💬 Talk to me about new developments in the field of **Robotics** and especially in **Swarm Robotics**.  
+- 💬 I'm looking to collaborate on projects related to **Swarm Robotics** and **Automation of UAVs**
 
 </p>
 <h3 align='centre'> Connect with Me!!</h3>
