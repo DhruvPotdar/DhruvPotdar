@@ -27,6 +27,9 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 <a href = 'https://www.instagram.com/dhruvpotdar_/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 </p>
 </div>  
+
+<br>
+
 <h3 align='left'> Skills and Languages 
 
 <img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' />
