@@ -2,7 +2,7 @@
 
 <h2>
 <p align = "center">
-Hey there I'm Dhruv
+Hey there, I'm Dhruv
 </p>
 </h2>
 
@@ -16,7 +16,6 @@ I am a Second Year Undergraduate Student at Birla Institute of Technology and Sc
 </p>
 
 - 🌳 I'm currently exploring **Robotics** and **Game Development**.
-- 👯 I'm looking to collaborate on projects related **Swarm Robotics** and **Multi-Agent Systems**
 - 💻 I'm currently working on a project on [**Swarm Robotics**](https://github.com/ERC-BPGC/swarm_bots).
 - 💬 I'm looking to collaborate on projects related to **Swarm Robotics** and **Automation of UAVs**
 
