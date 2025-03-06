@@ -10,14 +10,10 @@ Hey there, I'm Dhruv
 <!--Add website Link here-->
 
 <p align = "center">
-I am a Second Year Undergraduate Student at Birla Institute of Technology and Science Pilani, K.K Birla Goa Campus.
-<p align = "center">Pursuing Electronics and Instrumentation Engineering.
-</p>
+I am a Robotics Research Assistant at the Robotics Research Center, IIIT-H
 </p>
 
-- 🌳 I'm currently exploring **Robotics** and **Game Development**.
-- 💻 I'm currently working on a project on [**Swarm Robotics**](https://github.com/ERC-BPGC/swarm_bots).
-- 💬 I'm looking to collaborate on projects related to **Swarm Robotics** and **Automation of UAVs**
+
 
 </p>
 <h3 align='centre'> Connect with Me!!</h3>
